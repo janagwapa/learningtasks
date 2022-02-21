@@ -4,7 +4,7 @@
         <title>My Home Page</title>
     </head>
     <body>
-    <h1>Welcome to My Website! I am Giannah!</h1>
+    <h1>Welcome to My Website! I am Giannah Trafanco!</h1>
     <ul>
        <li><a href="index.php">HOME</a></li>
        <li><a href="recipes.html">LEARNING TASK 2</a></li>
