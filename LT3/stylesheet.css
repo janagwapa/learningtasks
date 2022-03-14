@@ -4,7 +4,6 @@ body
 	background-image: url(Bacc.jpg);
 	background-position: center;
 	background-size: cover;
-	opacity: 0.5;
 }
 #wrapper
 {
@@ -23,7 +22,8 @@ body
 		 font-size: 17px;
 		 color:#170200;
 		 text-align: center;
-		 background-color: #ffe1de;
+		 background-color: #755758;
+		 font-family: Copperplate;
 }
 #wrapper div img 
 {
