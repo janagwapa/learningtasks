@@ -17,10 +17,11 @@ body
 		 width: 250px;
 		 height: 400px;
 		 margin: 10px;
-		 border: 2px solid #783f04;
-		 float: center;
+		 border: 2px solid #2b0603;
+		 float: left;
 		 font-size: 17px;
-		 color:#FFAE00;
+		 color:#170200;
+		 text-align: center;
 }
 #wrapper div img 
 {
