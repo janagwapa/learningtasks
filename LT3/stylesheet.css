@@ -4,6 +4,7 @@ body
 	background-image: url(Bacc.jpg);
 	background-position: center;
 	background-size: cover;
+	opacity: 0.5;
 }
 #wrapper
 {
