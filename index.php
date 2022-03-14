@@ -7,8 +7,8 @@
     <h1>Welcome to My Website! I am Giannah Trafanco!</h1>
     <ul>
        <li><a href="index.php">HOME</a></li>
-       <li><a href="recipes.html">LEARNING TASK 2</a></li>
-        <li><a href="index.html">LEARNING TASK 3</a></li>
+       <li><a href="/LT2/recipes.html">LEARNING TASK 2</a></li>
+       <li><a href="/LT3/index.html">LEARNING TASK 3</a></li>
     </ul>
     </body>
  </html>
