@@ -1,16 +1,19 @@
 
-body{
+body
+{
 	background-image: url(Bacc.jpg);
 	background-position: center;
 	background-size: cover;
 }
-#wrapper{
+#wrapper
+{
 		width: auto;
 		height: 500px;
 		padding: 2px;
 		border: 0;
 }
-#wrapper div{
+#wrapper div
+{
 		 width: 250px;
 		 height: 400px;
 		 margin: 10px;
@@ -19,11 +22,12 @@ body{
 		 font-size: 17px;
 		 color:#FFAE00;
 }
-#wrapper div img {
+#wrapper div img 
+{
  		 width: 100px;
  		 height: 100px;
 }
 h1{
 	    color: #FFAE00;
-		}
+}
 		
