@@ -23,13 +23,12 @@ body
 		 color:#170200;
 		 text-align: center;
 		 background-color: #ffe1de;
-		 opacity: 0.3;
 }
 #wrapper div img 
 {
  		 width: 100px;
  		 height: 100px;
-		 opacity: 1;
+		
 }
 h1{
 	    color: #99473f;
