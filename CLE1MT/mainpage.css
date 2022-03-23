@@ -1,3 +1,6 @@
-body {
-<img src="MBG.jpg" alt="MBG">
+body
+{
+	background-image: url(MBG.jpg);
+	background-position: center;
+	background-size: cover;
 }
