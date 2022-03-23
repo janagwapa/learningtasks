@@ -3,5 +3,6 @@ body
 	background-image: url(MBG1.jpg);
 	background-repeat: no-repeat;
   	background-attachment: fixed;
+	background-position: center center;
   	background-size: cover;
 }
