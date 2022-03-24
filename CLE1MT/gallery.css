@@ -29,9 +29,11 @@ h1
 		 border: 2px solid white;
 		 float: left;
 		 font-size: 20px;
+		 font-family: Times New Roman;
+		 font-weight: bold;
 		 color: white;
 		 text-align: center;
-		 background-color: transparent;
+		 background-color: #557c66;
 }
 #wrapper div img 
 {
