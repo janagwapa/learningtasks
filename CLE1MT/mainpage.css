@@ -21,14 +21,14 @@ p
 }
 button
 {
-	background-color: #333300;
+	background-color: #99ff99;
   	color: black;
-  	border: 2px solid black;
+  	border: 1px solid black;
 	width: 250px;
 	height: 50%;
 	button:hover;
-	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
 	float: left;
-	width: 250px
+	Text-align: center
 }
 
