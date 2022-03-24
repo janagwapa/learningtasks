@@ -13,3 +13,9 @@ h1
 	font-family: Georgia;
   	font-size: 600%;	
 }
+p
+{
+	color: Black;
+	text-align: justify;
+	font-family: Garamond;
+}
