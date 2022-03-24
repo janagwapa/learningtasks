@@ -2,16 +2,67 @@ body
 {
 	background-image: url(action.jpg);
 	background-repeat: no-repeat;
-  background-attachment: fixed;
+  	background-attachment: fixed;
 	background-position: center center;
-  background-size: cover;
+  	background-size: cover;
 }
 h1
 {
-color: white;
-height:200px;
-font-family: Georgia;
-font-size: 500%;
-text-align: center;
-text-shadow: 2px 2px #333300;
+	color: white;
+	font-family: Georgia;
+	font-size: 500%;
+	text-align: center;
+	text-shadow: 2px 2px #333300;
+}
+p1
+{
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+	text-align: justify;
+}
+p2
+{
+	color: white;
+	font-size: 75%;
+	text-align: justify;
+}
+p3
+{
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+	text-align: justify;
+}
+p4
+{
+	color: white;
+	font-size: 75%;
+	text-align: justify;
+}
+p5
+{
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+	text-align: justify;
+}
+p6
+{
+	color: white;
+	font-size: 75%;
+	text-align: justify;
+}
+p7
+{
+	color: white;
+	font-weight: bold;
+	font-size: 100%;
+	text-align: justify;
+}
+p8
+{
+	color: white;
+	font-size: 75%;
+	text-align: justify;
 }
