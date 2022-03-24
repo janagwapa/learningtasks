@@ -11,7 +11,8 @@ h1
 	color: Black;
 	height:200px;
 	font-family: Georgia;
-  	font-size: 600%;	
+  	font-size: 600%;
+	text-align: center;
 }
 p
 {
@@ -24,8 +25,9 @@ button
 	background-color: #99ff99;
   	color: black;
   	border: 1px solid black;
+	font-family: Garamond;
 	height:300px;
 	width: 500px;
-	height:100px;
+	text-align: center;
 }
 
