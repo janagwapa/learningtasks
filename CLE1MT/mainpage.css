@@ -19,6 +19,7 @@ p
 	color: Black;
 	text-align: justify;
 	font-family: Garamond;
+	font-size: 300%;
 }
 button
 {
@@ -26,8 +27,8 @@ button
   	color: black;
   	border: 1px solid black;
 	font-family: Garamond;
-	height:300px;
+	height:200px;
 	width: 500px;
-	text-align: center;
+	font-size: 300%;
 }
 
