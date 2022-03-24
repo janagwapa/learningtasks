@@ -20,8 +20,6 @@ p
 	text-align: justify;
 	font-family: Garamond;
 	font-size: 150%;
-	padding-right:50px;
-	padding-left:50px;
 }
 button
 {
@@ -30,7 +28,7 @@ button
   	border: 1px solid black;
 	font-family: Garamond;
 	font-size: 200%;
-	height:200px;
+	height:100px;
 	width: 500px;
 }
 
