@@ -33,4 +33,10 @@ button
 	height:100px;
 	width: 523px;
 }
+button:hover
+{
+	color: white;
+	transition-duration: 0.4s;
+}
+
 
