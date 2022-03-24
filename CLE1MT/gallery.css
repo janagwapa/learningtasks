@@ -23,19 +23,19 @@ h1
 }
 #wrapper div
 {
-		 width: 250px;
+		 width: 400px;
 		 height: 400px;
 		 margin: 10px;
 		 border: 2px solid white;
 		 float: left;
-		 font-size: 17px;
-		 color:#170200;
+		 font-size: 20px;
+		 color: white;
 		 text-align: center;
-		 background-color: #c49fa0;
+		 background-color: transparent;
 }
 #wrapper div img 
 {
- 		 width: 200px;
- 		 height: 250px;
+ 		 width: 400px;
+ 		 height: 300px;
 		
 }
