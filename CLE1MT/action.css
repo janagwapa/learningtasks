@@ -1,1 +1,9 @@
-
+h1
+{
+color: white;
+height:200px;
+font-family: Georgia;
+font-size: 500%;
+text-align: center;
+text-shadow: 2px 2px #333300;
+}
