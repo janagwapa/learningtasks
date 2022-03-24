@@ -14,3 +14,28 @@ h1
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 }
+#wrapper
+{
+		width: auto;
+		height: 500px;
+		padding: 4px;
+		border: 0;
+}
+#wrapper div
+{
+		 width: 250px;
+		 height: 400px;
+		 margin: 10px;
+		 border: 2px solid white;
+		 float: left;
+		 font-size: 17px;
+		 color:#170200;
+		 text-align: center;
+		 background-color: #c49fa0;
+}
+#wrapper div img 
+{
+ 		 width: 200px;
+ 		 height: 250px;
+		
+}
