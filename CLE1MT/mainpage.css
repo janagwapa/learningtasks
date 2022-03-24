@@ -5,7 +5,8 @@ body
   	background-attachment: fixed;
 	background-position: center center;
   	background-size: cover;
-	padding: 1px;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 h1
 {
@@ -21,7 +22,8 @@ p
 	text-align: justify;
 	font-family: Garamond;
 	font-size: 150%;
-	padding: 35px;
+	padding-right:50px;
+	padding-left:50px;
 }
 button
 {
