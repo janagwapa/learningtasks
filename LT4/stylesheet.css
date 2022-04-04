@@ -14,7 +14,7 @@ h1
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 	font-style: italic;
-	outline: 5px #ffeb99;
+	border: 2px solid #ffeb99;
 }
 h2
 {
