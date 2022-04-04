@@ -14,7 +14,7 @@ h1
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 	font-style: italic;
-	position: fixed;
+	position: sticky;
 }
 h2
 {
