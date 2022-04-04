@@ -8,16 +8,17 @@ body
 }
 h1
 {
-	color: #ffd966;
+	color:#ffdd80;
 	font-family: Lucida Handwriting;
   font-size: 400%;
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 	font-style: italic;
+	position: fixed;
 }
 h2
 {
-	color: #ffd966;
+	color: #ffdd80;
 	font-family: Garamond;
   	font-size: 100%;
 	text-align: center;
@@ -25,7 +26,7 @@ h2
 }
 p
 {
-	color: #ffd966;
+	color: #ffdd80;
 	text-align: justify;
 	font-family: Garamond;
 	font-size: 150%;
