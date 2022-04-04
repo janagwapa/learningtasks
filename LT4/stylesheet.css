@@ -1,1 +1,17 @@
-
+body
+{
+	background-image: url(nymph.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-position: center center;
+  background-size: cover;
+}
+h1
+{
+	color: white;
+	height:200px;
+	font-family: Georgia;
+  font-size: 600%;
+	text-align: center;
+	text-shadow: 2px 2px #333300;
+}
