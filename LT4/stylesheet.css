@@ -14,7 +14,6 @@ h1
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 	font-style: italic;
-	border: 2px solid #ffeb99;
 }
 h2
 {
@@ -32,4 +31,5 @@ p
 	font-size: 150%;
 	text-align: center;
 	text-shadow: 2px 2px #333300;
+	border: 0.5px solid white;
 }
