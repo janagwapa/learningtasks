@@ -14,6 +14,7 @@ h1
 	text-align: center;
 	text-shadow: 2px 2px #333300;
 	font-style: italic;
+	outline: 5px #ffeb99;
 }
 h2
 {
@@ -30,5 +31,5 @@ p
 	font-family: Garamond;
 	font-size: 150%;
 	text-align: center;
-	outline: 2px black;
+	text-shadow: 2px 2px #333300;
 }
