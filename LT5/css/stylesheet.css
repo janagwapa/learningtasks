@@ -1,0 +1,23 @@
+body
+{
+	background-image: url(../images/bgg.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center center;
+    background-size: cover;
+}
+h2
+{
+    color: beige;
+	font-family: Garamond;
+  	font-size: 100%;
+	text-align: center;
+}
+p
+{
+    color: beige;
+	text-align: justify;
+	font-family: Garamond;
+	font-size: 150%;
+	text-align: center;
+}
