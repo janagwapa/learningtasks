@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+body
+{
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-position: center center;
+  background-size: cover;
+}
+.container
+{
+height:600px;
+width:50px;
+text-align: center;
+border: 1px;
+  outline-style: solid;
+  outline-color: beige;
+  outline-width: thick;
+border-radius:20px;
+position:center;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+ border-radius:20px;
+}
+.container-text h1
+{
+color: beige;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px #CC9C75;
+}
